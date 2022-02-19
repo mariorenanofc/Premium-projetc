@@ -8,7 +8,8 @@
 
 body{
     font-size: 100%;
-    background: linear-gradient(68.15deg, #7c666a 16.62%, #e4781f 85.61%);
+    background: linear-gradient(68.15deg, #c9c48598 16.62%, #7c849d 85.61%);
+
 
 }
 .cabecalho {
@@ -83,6 +84,11 @@ body{
     font-size: 22px;
     font-weight: 400;
     color: #f3f2f2b6;
+
+}
+
+.conteudo-principal-escrito-butao:hover {
+background-color: rgba(263, 214, 196, 0.53)
 
 }
 
