@@ -7,9 +7,11 @@
 }
 
 body{
-    font-size: 100%;
-    background: linear-gradient(68.15deg, #c9c48598 16.62%, #7c849d 85.61%);
-
+    background-image: url(../Premium-projetc/cupt.jpg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    
 
 }
 .cabecalho {
@@ -38,7 +40,7 @@ body{
 }
 
 .conteudo{
-    border-top: 0.4px solid #2b1a0c;
+    border-top: 0.4px solid #e8ae329f;
     margin-bottom: 48px;
     padding-top: 35px;
 
@@ -62,24 +64,26 @@ body{
 .conteudo-principal-escrito-titulo {
     font-family: 'Righteous', cursive;
     font-weight: 400;
-    font-size: 40px;
-    color: #000000;
+    font-size: 36px;
+    color: #e8ae32;
 }
 
 .conteudo-principal-escrito-subtitulo {
 
     font-family: 'Salara', sans-serif;
-    font-size: 28px;
+    font-size: 20px;
     font-weight: 400;
+    color: #ffffff;
+    
 }
 
 .conteudo-principal-escrito-butao {
-    background-color: #5f2c0388;
+    background-color: #df9a06;
     width: 185px;
     height: 67px;
     border: none;
-    box-shadow: 4px 5px 4px #22110388;
-    border-radius: 20px;
+    box-shadow: 4px 5px 4px #c7c7c0db;
+    border-radius: 10px;
     font-family: 'Salara', sans-serif;
     font-size: 22px;
     font-weight: 400;
@@ -106,11 +110,11 @@ background-color: rgba(263, 214, 196, 0.53)
 }
 
 .conteudo-secundario-titulo { 
-    border-top: 0.4px solid #2b1a0c;
+    border-top: 0.4px solid #e9a105;
     padding-top: 38px;
     font-family: 'Righteous', cursive;
     font-size: 24px;
     font-weight: 400;
-    color: #0807078f;
+    color: #e8ae32b9;
 
 }
