@@ -121,3 +121,27 @@ background-color: rgba(263, 214, 196, 0.53)
 .rodape-img {
     height: 35px;
 }
+.conteudo-principal-trabalhos {
+    font-style: normal;
+    padding: auto;
+    color: #edbd97;
+
+}
+.links {
+    display: contents;
+    gap: 10px;
+    
+    
+}
+.links-item {
+    font-family: 'Sarala', sans-serif;
+    color: #ffffff;
+    font-weight: 400;
+    font-size: 15px;
+}
+.paragrafo {
+    font-family: 'Salara', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: #e9e4cdf5;
+}
